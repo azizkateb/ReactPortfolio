@@ -10,7 +10,7 @@ const projects = [
     tags: ["React Js", "Tailwind CSS", "TypeScript", "Api Integration"],
     demoUrl: "https://azizkateb.github.io/Qoran/",
     githubUrl: "https://github.com/azizkateb/Qoran",
-    image: "/islamic.png"
+    image: `${import.meta.env.BASE_URL}islamic.png`
   },
   {
     title: "E-Commerce Website",
@@ -18,7 +18,7 @@ const projects = [
     tags: ["Spring Boot", "Angular", "MySQL", "Docker"],
     demoUrl: "https://azizkateb.github.io/ecommerce-frontend/home",
     githubUrl: "https://github.com/azizkateb/ecommerce-frontend",
-    image: "/home.png"
+    image: `${import.meta.env.BASE_URL}home.png`
   },
   {
     title: "Portfolio Website Full",
@@ -26,7 +26,7 @@ const projects = [
     tags: ["Angular", "Node.js", "Socket.io", "Redis"],
     demoUrl: "https://azizkatebportfolio.netlify.app",
     githubUrl: "https://github.com/azizkateb/portfolio2.0",
-    image: "/portfolio.png"
+    image: `${import.meta.env.BASE_URL}portfolio.png`
   }
 ];
 
