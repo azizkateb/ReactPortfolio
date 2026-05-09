@@ -10,7 +10,7 @@ export function Footer() {
     <footer className="py-10 border-t border-border bg-background">
       <div className="container mx-auto px-6 md:px-12 flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="text-foreground font-bold tracking-tighter uppercase text-xl">
-          Your<span className="text-primary">Name</span>.
+          Mohammed<span className="text-primary">Aziz Elkateb</span>.
         </div>
         
         <nav className="flex gap-6">
@@ -26,7 +26,7 @@ export function Footer() {
         </nav>
 
         <div className="text-sm text-muted-foreground font-light">
-          &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+          &copy; {new Date().getFullYear()} Mohammed Aziz Elkateb. All rights reserved.
         </div>
       </div>
     </footer>
