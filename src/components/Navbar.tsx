@@ -30,7 +30,7 @@ export function Navbar() {
     >
       <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
         <a href="#" className="text-xl font-bold tracking-tighter uppercase" data-testid="nav-logo">
-          Your<span className="text-primary">Name</span>.
+          Mohammed<span className="text-primary">Aziz Elkateb</span>.
         </a>
 
         {/* Desktop Nav */}
