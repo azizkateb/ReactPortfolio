@@ -159,7 +159,7 @@ export function Hero() {
             >
               {/* Replace src below with your actual photo */}
               <img
-                src="https://scontent.ftun1-2.fna.fbcdn.net/v/t39.30808-6/480572487_1576501779684125_1871983119312376736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=AJHYQtmi7M0Q7kNvwFoQmxS&_nc_oc=AdqKqvgW_SZ_p-V8A8eOBRGblAyhsiyC_wFtrQbxpfYfpeeQNMY5qtfL3vdgbO-UVrMl7y-rp2pxL8o10h2ETeP6&_nc_zt=23&_nc_ht=scontent.ftun1-2.fna&_nc_gid=PSwtBudGF2kp7_0AjKLoCQ&_nc_ss=7b2a8&oh=00_Af7Wv1bND-YhFK0Aq-UKapbnI5KfRFIL5VlwBZ2KbBPHWg&oe=6A050FB7"
+                src="me.jpg"
                 alt="Your Name — Full Stack Developer"
                 className="w-full h-full object-cover"
                 data-testid="hero-profile-image"
